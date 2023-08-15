@@ -72,3 +72,4 @@ gem "bootstrap", "~> 5.2"
 gem "simple_form"
 
 gem "dotenv-rails"
+gem "cloudinary"
